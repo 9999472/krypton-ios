@@ -1,5 +1,5 @@
 language: swift
-xcode_project: Kryptonite.xcodeproj
+xcode_project: Krypton.xcodeproj
 xcode_scheme: Debug
 osx_image: xcode10
 git:
